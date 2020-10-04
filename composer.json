@@ -1,5 +1,5 @@
 {
-    "name": "espiliauskas/lib-logging-extra-bundle",
+    "name": "espiliauskas/fork-lib-logging-extra-bundle",
     "description": "Symfony bundle for further Monolog, Sentry and Graylog integration",
     "keywords": ["logging", "monolog", "sentry", "graylog", "log"],
     "type": "symfony-bundle",
